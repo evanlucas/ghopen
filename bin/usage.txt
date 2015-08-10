@@ -1,0 +1,7 @@
+ghopen - Open the current repo on github. Start and package.json and work up.
+
+  usage: ghopen [options]
+
+  options:
+    -h, --help                    show help and usage
+    -v, --version                 show version

@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evanlucas/ghopen"
+  }
+}
