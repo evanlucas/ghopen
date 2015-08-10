@@ -15,7 +15,7 @@ var nopt = require('nopt')
                 , b: ['--browser']
                 , h: ['--help']
                 , v: ['--version']
-                , p: ['--path']
+                , d: ['--dir']
                 }
   , parsed = nopt(knownOpts, shortHand)
   , pkg = require('../package')

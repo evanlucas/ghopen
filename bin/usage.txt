@@ -5,3 +5,6 @@ ghopen - Open the current repo on github. Start and package.json and work up.
   options:
     -h, --help                    show help and usage
     -v, --version                 show version
+    -r, --remote <remote>         specify git remote
+    -b, --browser <browser>       specify browser to use
+    -d, --dir <dir>               specify directory to look in
